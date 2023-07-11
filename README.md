@@ -1,1 +1,1 @@
-# WW_Spectra_NNlearning
+# GitHub Repositpry: Neural Network Regression Modelling on Wastewater Spectral Reflectance
